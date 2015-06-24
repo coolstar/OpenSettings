@@ -1,0 +1,30 @@
+{
+    CFBundleExecutable = "OpenSettings";
+    CFBundleIconFile = "/Applications/Preferences.app/AppIcon60x60";
+    CFBundleIdentifier = "org.coolstar.opensettings";
+    CFBundleInfoDictionaryVersion = 6.0;
+    CFBundlePackageType = APPL;
+    CFBundleSignature = "????";
+    CFBundleSupportedPlatforms = (
+	iPhoneOS
+    );
+    UILaunchImages = (
+        {
+            UILaunchImageMinimumOSVersion = "8.0";
+            UILaunchImageName = "/Applications/Preferences.app/Default-667h";
+            UILaunchImageOrientation = "Portrait";
+            UILaunchImageSize = "{375, 667}";
+        },
+        {
+            UILaunchImageMinimumOSVersion = "7.0";
+            UILaunchImageName = "/Applications/Preferences.app/Default-568h";
+            UILaunchImageOrientation = "Portrait";
+            UILaunchImageSize = "{320, 568}";
+        }
+    );
+    CFBundleVersion = 1.0;
+    DTPlatformName = iphoneos;
+    DTSDKName = iphoneos3.0;
+    LSRequiresIPhoneOS = 1;
+    MinimumOSVersion = 3.0;
+}
